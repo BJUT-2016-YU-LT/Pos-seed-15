@@ -1,0 +1,15 @@
+{
+  "USER0001": {
+    "name": "USER001",
+    "isVip": true,
+    "Score": 20
+  },
+  "USER0002": {
+    "name": "USER002",
+    "isVip": false
+  },
+  "USER0003": {
+    "name": "USER003",
+    "isVip": true
+  }
+}
